@@ -77,7 +77,7 @@ a {
     margin: 20px;
 }
 
-/* ===== Section shared ===== */
+
 main {
     padding: 0 8%;
 }
@@ -100,7 +100,7 @@ section {
     text-align: center;
 }
 
-/* ===== Ingredients ===== */
+
 .ingredients-flex {
     display: flex;
     flex-wrap: wrap;
@@ -134,7 +134,7 @@ section {
     padding-left: 6px;
 }
 
-/* ===== Steps ===== */
+
 .steps-collage {
     width: 100%;
     max-width: 500px;
@@ -173,7 +173,7 @@ section {
     display: block;
 }
 
-/* ===== Gallery ===== */
+
 .gallery-flex {
     display: flex;
     flex-wrap: wrap;
@@ -191,7 +191,7 @@ section {
     margin: 0;
 }
 
-/* ===== Footer ===== */
+
 footer {
     text-align: center;
     padding: 30px 8%;
@@ -203,7 +203,7 @@ footer a {
     color: #E8B4A0;
 }
 
-/* ===== Responsive ===== */
+
 @media (max-width: 800px) {
     .hero {
         flex-direction: column;
